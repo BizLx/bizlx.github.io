@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkbizlx"]=self["webpackChunkbizlx"]||[]).push([[9686],{9686:function(n,e,r){r.r(e),r.d(e,{default:function(){return c}});var t=function(){var n=this;n._self._c;return n._m(0)},u=[function(){var n=this,e=n._self._c;return e("div",[e("h1",[n._v("Admin Category Banner")])])}],l={name:"CategoryBanner",components:{}},a=l,i=r(1001),s=(0,i.Z)(a,t,u,!1,null,null,null),c=s.exports}}]);
+//# sourceMappingURL=9686.fb9128e6.js.map

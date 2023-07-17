@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkbizlx"]=self["webpackChunkbizlx"]||[]).push([[9253],{9253:function(n,e,i){i.r(e),i.d(e,{default:function(){return a}});var u=function(){var n=this;n._self._c;return n._m(0)},r=[function(){var n=this,e=n._self._c;return e("div",[e("h1",[n._v("Admin Branding View")])])}],t={name:"BrandingView",components:{}},l=t,s=i(1001),c=(0,s.Z)(l,u,r,!1,null,null,null),a=c.exports}}]);
+//# sourceMappingURL=9253.3bba7f43.js.map

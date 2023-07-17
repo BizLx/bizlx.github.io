@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkbizlx"]=self["webpackChunkbizlx"]||[]).push([[755],{755:function(n,e,t){t.r(e),t.d(e,{default:function(){return c}});var i=function(){var n=this;n._self._c;return n._m(0)},s=[function(){var n=this,e=n._self._c;return e("div",[e("h1",[n._v("Admin Payment Commission")])])}],u={name:"PaymentCommission",components:{}},l=u,r=t(1001),o=(0,r.Z)(l,i,s,!1,null,null,null),c=o.exports}}]);
+//# sourceMappingURL=755.8e1b29ed.js.map
